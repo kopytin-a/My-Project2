@@ -12,14 +12,14 @@ npm run build
 
 ### Описание
 
-:white_check_mark: Данный проект реализован тремя способами:
-1. Vue3 Options API.
-2. Vuex.
-3. Vue 3 Composition API.  
-:white_check_mark: Реализован навбар с локальным хранилещем. 
-:white_check_mark: Реализованны UI компоненты.
-:white_check_mark: Реализованны Mixins.
-:white_check_mark: Реализованна собственная дириктива с автофокусом.
+:white_check_mark: Данный проект реализован тремя способами:    
+1. Vue3 Options API.    
+2. Vuex.    
+3. Vue 3 Composition API.    
+:white_check_mark: Реализован навбар с локальным хранилещем.    
+:white_check_mark: Реализованны UI компоненты.    
+:white_check_mark: Реализованны Mixins.    
+:white_check_mark: Реализованна собственная дириктива с автофокусом.    
 :white_check_mark: В качестве источника данных использовался API с сайта https://reqres.in/    
 :white_check_mark: При запуске проекта добавлен popup с формой авторизации (логин и пароль: admin).    
 :white_check_mark: В общем списке пользователей добавлен для каждого пользователя номер телефона (сгенерировано самостоятельно).    
