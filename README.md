@@ -13,9 +13,9 @@ npm run build
 ### Описание
 
 :white_check_mark: Данный проект реализован тремя способами: <br>
-    1. Vue3 Options API. <br>
-    2. Vuex. <br>
-    3. Vue 3 Composition API. <br>
+1.Vue3 Options API. <br>
+2.Vuex. <br>
+3.Vue 3 Composition API. <br>
 :white_check_mark: Реализован Навбар с локальным хранилещем. <br>
 :white_check_mark: Реализованны UI компоненты. <br>
 :white_check_mark: Реализованны Mixins. <br>
